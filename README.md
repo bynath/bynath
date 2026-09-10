@@ -33,6 +33,7 @@ Utilizo este perfil para documentar minha evolução em tecnologia, compartilhan
 ### Alguns dos meus repositórios
 
 🐍 **[pythonprojects](https://github.com/bynath/pythonprojects)**
+
 Exercícios e pequenos projetos desenvolvidos durante meus estudos de lógica de programação e Python.
 
 ---
