@@ -22,6 +22,9 @@ Exercícios e pequenos projetos desenvolvidos durante meus estudos de lógica de
 🛢️ **[projeto-biblioteca](https://github.com/bynath/banco-dados-sql/tree/main/projeto-biblioteca)**
 Projeto desenvolvido colocando em prática conceitos de SQL, criação de tabelas, relacionamentos e consultas em um banco de dados para gerenciamento de uma biblioteca.
 
+⚛️ **[projeto-front-cadastro](https://github.com/bynath/projeto-front-cadastro)**
+Projeto acadêmico desenvolvido na disciplina de Front-End 2, explorando JavaScript, React, Vite, componentes, props, estado, DOM e consumo de APIs.
+
 ---
 
 > *"Em constante aprendizado e evolução."*
