@@ -19,7 +19,7 @@ Utilizo este perfil para documentar minha evolução em tecnologia, compartilhan
 🐍 **[pythonprojects](https://github.com/bynath/pythonprojects)**
 Exercícios e pequenos projetos desenvolvidos durante meus estudos de lógica de programação e Python.
 
-🛢️ **[projeto-bd-biblioteca](https://github.com/bynath/projeto-bd-biblioteca)**
+🛢️ **[projeto-biblioteca](https://github.com/bynath/banco-dados-sql/tree/main/projeto-biblioteca)**
 Projeto desenvolvido colocando em prática conceitos de SQL, criação de tabelas, relacionamentos e consultas em um banco de dados para gerenciamento de uma biblioteca.
 
 ---
